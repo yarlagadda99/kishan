@@ -17,7 +17,10 @@
 </p>
 <p>
   Sean made a change
+<<<<<<< HEAD
 kishan
+=======
+>>>>>>> dev-2
 </p>
 
 </body>
